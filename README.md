@@ -122,6 +122,10 @@ These features make Contabo more than just a low-cost option—it’s a **scalab
 
 ## **Pricing & Plans**
 
+<a href="https://afftrend.com/contabo">
+  <img src="https://drive.google.com/uc?export=view&id=1Bom8SQpfDTjBBmafioeW7Zk19Xo2BShd"  alt="Contabo Pricing">
+</a>
+
 | **Model** | **vCPU Cores** | **RAM** | **Storage** | **Data Transfer** | **Monthly Price** |
 | --- | --- | --- | --- | --- | --- |
 | Cloud VPS 4C | 4 vCPU | 8 GB RAM | 100 GB NVMe / 200 GB SSD | 32 TB | €5.70 |
